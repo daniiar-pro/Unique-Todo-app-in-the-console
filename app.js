@@ -1,6 +1,6 @@
 let input = prompt("what would you like to do?");
 
-const todos = ["reading", "walking"];
+const todos = ["reading", "sleeping"];
 
 while (input !== "quit" && input !== "q") {
   if (input === "list") {
